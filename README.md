@@ -125,5 +125,3 @@ Each RAD cycle improves functionality through user feedback, making it ideal for
 
 ---
 
-## 📂 Suggested Repository Structure
-
